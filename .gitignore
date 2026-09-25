@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+venv-local/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Base de datos y archivos locales
+db.sqlite3
+*.sqlite3
+.env
+
+# Pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores
+.vscode/
+.idea/
